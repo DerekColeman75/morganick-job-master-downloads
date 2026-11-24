@@ -1,6 +1,6 @@
 # Morganick Job Master downloads
 
-Current crew preview: **0.1.0-preview.56-full-portable**. Windows 11, Intel/AMD x64.
+Current crew preview: **0.1.0-preview.57-full-portable**. Windows 11, Intel/AMD x64.
 
 ## Update your existing program
 
@@ -25,6 +25,10 @@ Extract the whole ZIP into a local folder and open `Morganick.JobDataViewer.exe`
 Updates replace program files. Original recordings, saved job drafts, customer remarks, START/FINISH markers stored in those drafts and exported PDFs stay in place. Save unsaved work as a job draft before updating.
 
 Job review and PDF tools still work offline. The application contacts the download service only when you ask for an online update. No job recording or report is uploaded by the updater.
+
+## Report a problem
+
+In v57 and later, click **Report a problem** at the bottom of MJ, or open the [support form](https://morganick-job-master.netlify.app/support/). No sign-in is needed. Enter your name, choose whether you can keep working and explain what happened, then click **Send report**. The form needs internet and keeps the open job in MJ. It does not attach your recording. Leave passwords and customer details out; contact dispatch for urgent help.
 
 Online release notices are signed with Morganick's update key, and downloaded ZIPs must match the signed checksum. This is separate from Windows publisher signing: this crew preview is **not yet Authenticode-signed**. Follow your company's Windows security policy.
 

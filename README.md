@@ -1,6 +1,6 @@
 # Morganick Job Master downloads
 
-Current crew preview: **0.1.0-preview.57-full-portable**. Windows 11, Intel/AMD x64.
+Current crew preview: **0.1.0-preview.62-full-portable**. Windows 11, Intel/AMD x64.
 
 ## Update your existing program
 
@@ -35,3 +35,13 @@ Online release notices are signed with Morganick's update key, and downloaded ZI
 Only packaged downloads and these instructions are published here. Application source code and customer job files are not included. The full portable ZIP contains the application and runtime licence notices.
 
 [Application and Microsoft .NET licence notices](https://github.com/DerekColeman75/morganick-job-master-downloads/releases/latest/download/NOTICES.txt)
+
+## What changed in v62
+
+- Preflush and customer remarks share page 1; Cement and Displacement remain together on page 2.
+- Use START and FINISH to crop all four measurements for a customer chart, then choose the PDF layout.
+- More scale ticks, clearer label spacing and independent solid/dotted line choices.
+- Optional raw-plus-average display; original readings remain unchanged.
+- Job drafts retain Preflush times, markers, customer remarks and chart settings.
+
+Validation: 569 automated checks passed; real-job PDF pages were visually reviewed. The signed v62 package was also installed on an isolated v57 test copy, preserving its synthetic job files. Windows publisher signing remains a separate outstanding task.
